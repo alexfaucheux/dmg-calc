@@ -64,12 +64,12 @@ function DMGForm() {
 
           <Form.Row className="justify-content-center">
             <Form.Group>
-              {Array.from(Array(12).keys()).map(i => (
-                <Form.Check inline label={i+1} type="radio" name="pips" id={`pip-${i + 1}`} value={i+1} ref={register()} />
+              {[1,2,3,4,5,6,7,8,9,10,11,12].map(i => (
+                <Form.Check inline label={i} type="radio" name="pips" id={`pip-${i}`} value={i} ref={register()} />
               ))}
             </Form.Group>
           </Form.Row>
-          
+
           <Row>
             <Col sm={3}>
               <fieldset>
