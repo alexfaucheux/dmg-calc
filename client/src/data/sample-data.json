@@ -1,0 +1,250 @@
+{
+    "spell": "Judgment",
+    "school": "Balance",
+    "baseDmg": 100,
+    "pips": "X",
+    "image_url": "http://www.wizard101central.com/wiki/images/8/89/%28Spell%29_Power_Nova.png",
+    "auras": [
+        {
+            "name": "Amplify",
+            "value": 1.15
+        },
+        {
+            "name": "Magnify",
+            "value": 1.20
+        },
+        {
+            "name": "Chastisement / Punishment",
+            "value": 1.25
+        },
+        {
+            "name": "Berserk",
+            "value": 1.30
+        },
+        {
+            "name": "Frenzy",
+            "value": 1.40
+        }
+    ],
+    "enchants": [
+        {
+            "name": "Strong",
+            "value": 100
+        },
+        {
+            "name": "Giant",
+            "value": 125
+        },
+        {
+            "name": "Monstrous",
+            "value": 175
+        },
+        {
+            "name": "Gargantuan",
+            "value": 225
+        },
+        {
+            "name": "Colossal",
+            "value": 275
+        },
+        {
+            "name": "Epic",
+            "value": 300
+        }
+    ],
+
+    "blades": [
+        {
+            "name": "Balance Blade",
+            "id": "bb",
+            "variants": [
+                {
+                    "name": "regular",
+                    "value": 1.25
+                },
+                {
+                    "name": "item",
+                    "value": 1.25
+                },
+                {
+                    "name": "pet",
+                    "value": 1.25
+                },
+                {
+                    "name": "treasure card",
+                    "value": 1.25
+                },
+                {
+                    "name": "sharpened",
+                    "value": 1.35
+                },
+                {
+                    "name": "item sharpened",
+                    "value": 1.35
+                },
+                {
+                    "name": "pet sharpened",
+                    "value": 1.35
+                },
+                {
+                    "name": "tc sharpened",
+                    "value": 1.35
+                }
+            ] 
+        },
+        {
+            "name": "Bladestorm",
+            "id": "bs",
+            "variants": [
+                {
+                    "name": "regular",
+                    "value": 1.20
+                },
+                {
+                    "name": "item",
+                    "value": 1.20
+                },
+                {
+                    "name": "pet",
+                    "value": 1.20
+                },
+                {
+                    "name": "treasure card",
+                    "value": 1.20
+                },
+                {
+                    "name": "sharpened",
+                    "value": 1.30
+                },
+                {
+                    "name": "item sharpened",
+                    "value": 1.30
+                },
+                {
+                    "name": "pet sharpened",
+                    "value": 1.30
+                },
+                {
+                    "name": "tc sharpened",
+                    "value": 1.30
+                }
+            ]
+        }
+    ],
+    "traps": [
+        {
+            "name": "Hex",
+            "id": "hex",
+            "variants": [
+                {
+                    "name": "regular",
+                    "value": 1.30
+                },
+                {
+                    "name": "item",
+                    "value": 1.30
+                },
+                {
+                    "name": "pet",
+                    "value": 1.30
+                },
+                {
+                    "name": "treasure card",
+                    "value": 1.30
+                },
+                {
+                    "name": "potent",
+                    "value": 1.40
+                },
+                {
+                    "name": "item potent",
+                    "value": 1.40
+                },
+                {
+                    "name": "pet potent",
+                    "value": 1.40
+                },
+                {
+                    "name": "tc potent",
+                    "value": 1.40
+                }
+            ]
+        },
+        {
+            "name": "Curse",
+            "id": "curse",
+            "variants": [
+                {
+                    "name": "regular",
+                    "value": 1.20
+                },
+                {
+                    "name": "item",
+                    "value": 1.20
+                },
+                {
+                    "name": "pet",
+                    "value": 1.20
+                },
+                {
+                    "name": "treasure card",
+                    "value": 1.20
+                },
+                {
+                    "name": "potent",
+                    "value": 1.30
+                },
+                {
+                    "name": "item potent",
+                    "value": 1.30
+                },
+                {
+                    "name": "pet potent",
+                    "value": 1.30
+                },
+                {
+                    "name": "tc potent",
+                    "value": 1.30
+                }
+            ]
+        },
+        {
+            "name": "Feint",
+            "id": "feint",
+            "variants": [
+                {
+                    "name": "regular",
+                    "value": 1.70
+                },
+                {
+                    "name": "item",
+                    "value": 1.70
+                },
+                {
+                    "name": "pet",
+                    "value": 1.70
+                },
+                {
+                    "name": "treasure card",
+                    "value": 1.70
+                },
+                {
+                    "name": "potent",
+                    "value": 1.80
+                },
+                {
+                    "name": "item potent",
+                    "value": 1.80
+                },
+                {
+                    "name": "pet potent",
+                    "value": 1.80
+                },
+                {
+                    "name": "tc potent",
+                    "value": 1.80
+                }
+            ]
+        }
+    ]
+}

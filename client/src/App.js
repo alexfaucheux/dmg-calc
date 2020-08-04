@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import DMGForm from './components/DMGForm';
+import DMGForm from './components/view-components/DMGForm';
 
 function App() {
   return (
